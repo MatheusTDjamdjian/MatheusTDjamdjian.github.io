@@ -39,6 +39,12 @@
     font-weight: 800; 
 }
 
+@media (min-width: 992px) {
+    h2 {
+        margin-bottom: 25px;
+    }
+}
+
 /* finish personal customization */
 
 .header .navbar-brand span:first-child{
