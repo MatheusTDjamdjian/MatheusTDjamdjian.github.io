@@ -8,10 +8,10 @@ showcase:
   description: >
     Atualmente, frequento um escritório localizado no bairro de Vila Maria, na Zona Norte de São Paulo. No meu dia a dia, me dedico a pequenos projetos de desenvolvimento, utilizando HTML, CSS, JavaScript e algumas bibliotecas relacionadas. Além disso, também realizo tarefas voltadas para a contabilidade, que é o foco principal da empresa. Me sinto motivado com o que aprendo e faço aqui, e meu objetivo é continuar expandindo e evoluindo meus conhecimentos na área de tecnologia.
   image:
-    x: "images/showcase/showcase.png"
-    _2x: "images/showcase/showcase@2x.png"
+    x: "images/showcase/pc.png"
+    _2x: "images/showcase/pc.png"
   imageMobile:
-    x: "images/showcase/showcase-mobile.jpg"
+    x: "images/showcase/pc.png"
 
   button:
     icon: "icon-mail-fill"
