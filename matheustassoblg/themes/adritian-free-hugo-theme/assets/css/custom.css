@@ -8,6 +8,16 @@
     font-style: normal;
   }
 
+/* header */
+
+.container-fluid {
+    background-color: #93867F;
+}
+
+.header--sticky-triggered {
+    background-color: #93867F; 
+}
+
 .display-1 { /* title showcase */
     margin-top: 50px;
     margin-bottom: 23px;
@@ -23,11 +33,10 @@
     font-weight: 800; 
 }
 
-
-/* You can customize theme styles here */
+/* finish personal customization */
 
 .header .navbar-brand span:first-child{
-    color: #31AD8A;
+    color: #68C5B9;
 }
 .header .container{
     padding-left: 10px;
