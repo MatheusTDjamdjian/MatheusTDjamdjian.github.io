@@ -20,34 +20,19 @@ showcase:
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/adrianmoreno/"
+      URL: "https://www.linkedin.com/in/matheus-tasso-580498295/"
 
     - icon: "github"
-      URL: "https://github.com/zetxek"
-
-    - icon: "twitter"
-      URL: "https://twitter.com/zetxek"
-
-    - icon: "dribbble"
-      URL: "#"
+      URL: "https://github.com/MatheusTDjamdjian"
 
     - icon: "behance"
-      URL: "#"
-
-    - icon: "youtube"
-      URL: "#"
+      URL: "https://www.behance.net/matheustasso1"
 
     - icon: "instagram"
-      URL: "https://www.instagram.com/zetxek/"
-
-    - icon: "facebook"
-      URL: "https://www.facebook.com/zetxek/"
+      URL: "https://www.instagram.com/tasso_theus/"
 
     - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
+      URL: "https://codepen.io/MatheusTDjamdjian"
 
 # about
 about:
