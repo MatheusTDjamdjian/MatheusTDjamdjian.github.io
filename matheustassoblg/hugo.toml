@@ -1,5 +1,5 @@
 baseURL = "https://www.adrianmoreno.info"
-languageCode = "en-us"
+languageCode = "pt-br"
 theme = "adritian-free-hugo-theme"
 
 # Plugins
