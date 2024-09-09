@@ -4,10 +4,9 @@ head:
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Cool."
-  subtitle: "This is my title"
+  title: "Olá, me chamo Matheus."
   description: >
-    This is a good place to start with an introduction about yourself. Maybe a mention to the place <a target='_blank' href='https://www.adrianmoreno.info/'>where you work</a>. You can also mention where you live, your background and what's the purpose of the site. <br>You can download this theme from <a target='_blank' href='https://github.com/zetxek/adritian-free-hugo-theme'>github</a>, and see it live <a target='_blank' href="https://adritian-demo.vercel.app//">as a demo site</a> or <a target='_blank' href="https://www.adrianmoreno.info">a real one</a>.<br>You can find this content to edit in the theme.yaml file.
+    Atualmente, frequento um escritório localizado no bairro de Vila Maria, na Zona Norte de São Paulo. No meu dia a dia, me dedico a pequenos projetos de desenvolvimento, utilizando HTML, CSS, JavaScript e algumas bibliotecas relacionadas. Além disso, também realizo tarefas voltadas para a contabilidade, que é o foco principal da empresa. Me sinto motivado com o que aprendo e faço aqui, e meu objetivo é continuar expandindo e evoluindo meus conhecimentos na área de tecnologia.
   image:
     x: "images/showcase/showcase.png"
     _2x: "images/showcase/showcase@2x.png"
@@ -17,7 +16,7 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://www.adrianmoreno.info/"
+    URL: "mailto:matheustassodjamdjian@gmail.com"
 
   socialLinks:
     - icon: "linkedin"
