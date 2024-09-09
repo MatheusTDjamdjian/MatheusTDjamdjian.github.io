@@ -4,7 +4,7 @@ head:
 # showcase
 showcase:
   enable: true
-  title: "Olá, me chamo Matheus."
+  subtitle: "Olá, me chamo Matheus."
   description: >
     Atualmente, frequento um escritório localizado no bairro de Vila Maria, na Zona Norte de São Paulo. No meu dia a dia, me dedico a pequenos projetos de desenvolvimento, utilizando HTML, CSS, JavaScript e algumas bibliotecas relacionadas. Além disso, também realizo tarefas voltadas para a contabilidade, que é o foco principal da empresa. Me sinto motivado com o que aprendo e faço aqui, e meu objetivo é continuar expandindo e evoluindo meus conhecimentos na área de tecnologia.
   image:

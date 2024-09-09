@@ -2,19 +2,32 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Changa&family=DM+Serif+Text:ital@0;1&display=swap');
 
-.display-1 {
+.dm-serif-text-regular {
+    font-family: "DM Serif Text", serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+
+.display-1 { /* title showcase */
+    margin-top: 50px;
+    margin-bottom: 23px;
     font-family: "DM Serif Text", serif;
     font-size: 36px;
-    font-weight: 800;
     line-height: normal;
     color: #31AD8A;
     
 }
 
+.rad-showcase 
+.container h1 span { /* title showcase */
+    font-weight: 800; 
+}
+
 
 /* You can customize theme styles here */
+
 .header .navbar-brand span:first-child{
-    color: #478079;
+    color: #31AD8A;
 }
 .header .container{
     padding-left: 10px;
