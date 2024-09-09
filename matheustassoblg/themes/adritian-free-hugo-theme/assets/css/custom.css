@@ -39,9 +39,13 @@
     font-weight: 800; 
 }
 
-@media (min-width: 992px) {
+@media (min-width: 992px) { 
     h2 {
         margin-bottom: 25px;
+        margin-left: 14px;
+    }
+    .lead {
+        margin-left: 14px;
     }
 }
 
