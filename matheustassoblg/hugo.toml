@@ -26,12 +26,12 @@ theme = "adritian-free-hugo-theme"
 [menu]
 
   [[menu.header]]
-  name = "About"
+  name = "Sobre"
   URL = "#about"
   weight = 2
 
   [[menu.header]]
-  name = "Portfolio"
+  name = "Projetos"
   URL = "#portfolio"
   weight = 3
 
@@ -41,12 +41,7 @@ theme = "adritian-free-hugo-theme"
 #  weight = 4
 
   [[menu.header]]
-  name = "Blog"
-  URL = "/blog"
-  weight = 5
-
-  [[menu.header]]
-  name = "Contact"
+  name = "Contato"
   URL = "#contact"
   weight = 6
 
