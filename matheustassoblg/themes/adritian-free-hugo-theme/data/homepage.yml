@@ -50,8 +50,8 @@ about:
     btnText: "Sobre mim"
     URL: "https://www.instagram.com/tasso_theus/"
   image:
-    x: "images/who-am-i/user-picture.png"
-    _2x: "images/who-am-i/user-picture@2x.png"
+    x: "images/who-am-i/me.jpg"
+    _2x: "images/who-am-i/me.jpg"
 
 # education
 education:
