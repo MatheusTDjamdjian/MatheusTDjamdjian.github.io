@@ -1,3 +1,17 @@
+/* personal customization */
+
+@import url('https://fonts.googleapis.com/css2?family=Changa&family=DM+Serif+Text:ital@0;1&display=swap');
+
+.display-1 {
+    font-family: "DM Serif Text", serif;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: normal;
+    color: #31AD8A;
+    
+}
+
+
 /* You can customize theme styles here */
 .header .navbar-brand span:first-child{
     color: #478079;
