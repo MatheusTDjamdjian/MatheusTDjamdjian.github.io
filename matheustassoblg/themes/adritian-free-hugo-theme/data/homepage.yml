@@ -47,8 +47,8 @@ about:
     </p>
   button:
     icon: "icon-smile-fill"
-    btnText: ""
-    URL: "https://www.linkedin.com/in/adrianmoreno/"
+    btnText: "Sobre mim"
+    URL: "https://www.instagram.com/tasso_theus/"
   image:
     x: "images/who-am-i/user-picture.png"
     _2x: "images/who-am-i/user-picture@2x.png"
