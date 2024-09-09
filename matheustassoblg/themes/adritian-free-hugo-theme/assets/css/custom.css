@@ -6,7 +6,13 @@
     font-family: "DM Serif Text", serif;
     font-weight: 800;
     font-style: normal;
-  }
+}
+
+.header 
+.navbar-light 
+.navbar-nav .nav-link { /* style menu */
+    color: #68C5B9;
+}
 
 /* header */
 
