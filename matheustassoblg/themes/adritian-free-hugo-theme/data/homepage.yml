@@ -83,7 +83,7 @@ client_and_work:
 
 # testimonial
 testimonial:
-  enable: true
+  enable: false
   title: "Testimonials"
   items:
     - name: "Daniel Jordan"
@@ -128,11 +128,3 @@ contact:
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
-
-# newsletter
-newsletter:
-  enable: true
-  title: "Newsletter subscription"
-  success_message: "Successfully subscribed"
-  error_message: "Error while subscribing."
-  note: "We'll never share your email with anyone else."
