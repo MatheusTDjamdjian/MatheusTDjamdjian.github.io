@@ -89,8 +89,8 @@ client_and_work:
         btnText: "Veja o projeto"
         URL: "https://github.com/MatheusTDjamdjian/google-keep"
       image:
-        x: "images/works/swissfintech.jpg"
-        _2x: "images/works/swissfintech@2x.jpg"
+        x: "images/works/gk.png"
+        _2x: "images/works/gk.png"
       is_even: true
 
     - title: "Flappy Bird"
@@ -100,8 +100,8 @@ client_and_work:
         btnText: "Veja o projeto"
         URL: "https://github.com/MatheusTDjamdjian/flappy-bird"
       image:
-        x: "images/works/robo-advisor.jpg"
-        _2x: "images/works/robo-advisor@2x.jpg"
+        x: "images/works/fb.png"
+        _2x: "images/works/fb.png"
       is_even: false
 
     - title: "Login Page"
@@ -111,8 +111,8 @@ client_and_work:
         btnText: "Veja o projeto"
         URL: "https://github.com/MatheusTDjamdjian/login-layout"
       image:
-        x: "images/works/radity-finance.jpg"
-        _2x: "images/works/radity-finance@2x.jpg"
+        x: "images/works/lp.png"
+        _2x: "images/works/lp.png"
       is_even: true
 
 # testimonial
