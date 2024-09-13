@@ -25,7 +25,7 @@
                   srcset="{{ $img.RelPermalink }} 1x, {{ $img2x.RelPermalink }} 2x"
                   data-src="{{ $img.RelPermalink }}"
                   data-srcset="{{ $img.RelPermalink }} 1x, {{ $img2x.RelPermalink }} 2x"
-                  alt="{{ .alt }}"
+                  alt="{{ .alt }}" style="text-align: center;"
                 />
               </picture>
 
@@ -49,7 +49,7 @@
           >{{ .button.btnText }}<i class="{{ .button.icon }}"></i
         ></a>
       </div>
-      <div class="col-12 col-md-7 pl-md-0 text-right">
+      <div class="col-12 col-md-7 pl-md-0 text-center">
 
         {{ $img := resources.Get .image.x }}
         {{ $img2x := resources.Get .image._2x }}
@@ -64,13 +64,13 @@
             srcset="{{ $img.RelPermalink }} 1x, {{ $img2x.RelPermalink }} 2x"
             data-src="{{ $img.RelPermalink }}"
             data-srcset="{{ $img.RelPermalink }} 1x, {{ $img2x.RelPermalink }} 2x"
-            alt="{{ .title }}"
+            alt="{{ .title }}" style="text-align: center;"
           />
         </picture>
 
       </div>
       {{ else }}
-      <div class="col-12 col-md-7 pl-md-0 text-right">
+      <div class="col-12 col-md-7 pl-md-0 text-center">
         {{ $img := resources.Get .image.x }}
         {{ $img2x := resources.Get .image._2x }}
         {{ $imgWebp := $img.Resize (printf "%dx%d webp q75 Lanczos picture" $img.Width $img.Height) }}
@@ -84,7 +84,7 @@
             srcset="{{ $img.RelPermalink }} 1x, {{ $img2x.RelPermalink }} 2x"
             data-src="{{ $img.RelPermalink }}"
             data-srcset="{{ $img.RelPermalink }} 1x, {{ $img2x.RelPermalink }} 2x"
-            alt="{{ .title }}"
+            alt="{{ .title }}" style="text-align: center;"
           />
         </picture>
       </div>
