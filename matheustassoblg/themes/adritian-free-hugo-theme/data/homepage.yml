@@ -82,33 +82,33 @@ client_and_work:
   enable: true
 
   works:
-    - title: "Radity Finance - UI Kit"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+    - title: "Google Kepp"
+      description: "Um projeto desenvolvido utilizando HTML, CSS e JavaScript com o objetivo de recriar, de maneira simplificada, o site do Google."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
+        btnText: "Veja o projeto"
         URL: "#"
       image:
         x: "images/works/radity-finance.jpg"
         _2x: "images/works/radity-finance@2x.jpg"
       is_even: true
 
-    - title: "Swiss Fintech Website"
-      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+    - title: "Flappy Bird"
+      description: "Um projeto desenvolvido com HTML, CSS e JavaScript, com o objetivo de recriar o jogo Flappy Bird, incorporando um menu e outras funcionalidades adicionais."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
+        btnText: "Veja o projeto"
         URL: "#"
       image:
         x: "images/works/robo-advisor.jpg"
         _2x: "images/works/robo-advisor@2x.jpg"
       is_even: false
 
-    - title: "Robo Advisor"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+    - title: "Login Page"
+      description: "Um projeto desenvolvido com HTML e CSS, visando criar uma página de login interativa e responsiva."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
+        btnText: "Veja o projeto"
         URL: "#"
       image:
         x: "images/works/radity-finance.jpg"
