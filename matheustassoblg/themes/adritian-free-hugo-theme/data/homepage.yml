@@ -109,7 +109,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Veja o projeto"
-        URL: "https://github.com/MatheusTDjamdjian/login-layout"
+        URL: "https://matheustdjamdjian.github.io/login-layout/"
       image:
         x: "images/works/lp.png"
         _2x: "images/works/lp.png"
