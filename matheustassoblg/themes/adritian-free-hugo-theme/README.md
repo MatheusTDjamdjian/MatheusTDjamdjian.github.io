@@ -1,7 +1,7 @@
 # Adritian Free Hugo Theme
 ###### Adritian Hugo Theme for Personal Websites or Professional minimalistic landing pages
 
-See it live at **[adritian-demo.vercel.app](https://adritian-demo.vercel.app/)** (simple demo site, vanilla installation) or **[adrianmoreno.info](https://www.adrianmoreno.info)** (my personal site, running on this theme)
+See it live at **[adritian-demo.vercel.app](https://https://adritian-demo.vercel.app/)** (simple demo site, vanilla installation) or **[adrianmoreno.info](https://www.adrianmoreno.info)** (my personal site, running on this theme)
 
 This free Hugo theme is a fork of [Raditian Theme](https://github.com/radity/raditian-free-hugo-theme) - a great Hugo theme originally created by [Radity](https://github.com/radity). It's called __Adritian__ because I, the author, am called Adrián - and if you shuffle Raditian and Adrián letters you get... Adritian 😅
 
@@ -96,7 +96,7 @@ _(optional, if you want to use the contact form)_ edit line 212 in your `homepag
 
 ##### Blog
 
-<img width="1271" alt="image" src="https://github.com/user-attachments/assets/1821a3b7-f572-4958-8c4f-bd1687cc8f71">
+<img width="1449" alt="SCR-20240624-uajc" src="https://github.com/zetxek/adritian-free-hugo-theme/assets/240085/7540f5f0-f753-48f8-bc69-1aa9c715a6d7">
 
 
 To use the blog, you can use the content type "blog", and render it in the URL `/blog`.
@@ -106,18 +106,13 @@ The posts will be markdown files stored in the `content/blog` folder.
 
 ##### Experience
 
-This functionality and content is especially suited for personal professional sites, showcasing the work experience: 
-
 <img width="1444" alt="SCR-20240624-uaoi" src="https://github.com/zetxek/adritian-free-hugo-theme/assets/240085/9ea86d6a-62c6-4c4f-96ba-8450fa24dd68">
 
-It can be used to render job experience, projects or clients. Each experience/project has a duration, job title, company name, location and description/excerpt as well as a longer text. 
+
+It can be used to render job experience of projects. Each experience/project has a duration, job title, company name, location and description/excerpt as well as a longer text. 
 
 The experience is managed through a specific content type (see `content/experience` for an example).
-You can use `hugo new experience/experience-name.md` (replacing `experience-name` by the name of the job experience).
-This will create the content in the `content/experience` folder, following the `experience` archetype.
-
-The following fields are used from the file's Front Matter: `title`, `jobTitle`, `company`, `location`, `duration`. 
-You can find a sample experience file content here:
+You should add the following fields to control the content: `title`, `jobTitle`, `company`, `location`, `duration`. The markdown file content will be rendered on the dedicated experience page. 
 
 ```
 ---
@@ -143,13 +138,13 @@ The experience is displayed in several locations:
 
 ## Troubleshooting
 
-This theme is a version of the one found on my website [adrianmoreno.info](https://www.adrianmoreno.info). If you run into trouble, [you can check the code on my website](https://github.com/zetxek/adrianmoreno.info) for reference.
+This theme is a version of the one found on my website [adriamoreno.info](https://www.adrianmoreno.info). If you run into trouble, [you can check the code on my website](https://github.com/zetxek/adrianmoreno.info) for reference.
 
 If you have improvements for the theme, you are very welcome to make a PR if you are able 💕. Otherwise - see below for how to get help (and maybe help others with the same problem).
 
 ## Getting help
 
-The project is offered "as is", and it's a hobby project that powers my personal website. Support is given whenever life allows - you can create an issue [create an issue](https://github.com/zetxek/adritian-free-hugo-theme/issues) so anyone else could also help, or the author.
+The project is offered "as is", and it's a hobby project. Support is given whenever life allows - you can create an issue [create an issue](https://github.com/zetxek/adritian-free-hugo-theme/issues) so anyone else could also help, or the author.
 
 ## Showcase
 
