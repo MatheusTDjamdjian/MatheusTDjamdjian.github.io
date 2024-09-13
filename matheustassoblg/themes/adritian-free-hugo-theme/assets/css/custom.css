@@ -41,7 +41,10 @@
 
 @media (min-width: 992px) { 
     h2 {
-        margin-bottom: 25px;
+        margin-bottom: 15px;
+    }
+    .btn.btn-primary.btn-block {
+        margin-left: -14px;
     }
     
 }
