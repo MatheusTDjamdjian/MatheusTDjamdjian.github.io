@@ -89,8 +89,8 @@ client_and_work:
         btnText: "Veja o projeto"
         URL: "https://github.com/MatheusTDjamdjian/google-keep"
       image:
-        x: "images/works/kepp.png"
-        _2x: "images/works/kepp.png"
+        x: "images/works/swissfintech.jpg"
+        _2x: "images/works/swissfintech@2x.jpg"
       is_even: true
 
     - title: "Flappy Bird"
