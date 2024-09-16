@@ -87,7 +87,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Veja o projeto"
-        URL: "https://github.com/MatheusTDjamdjian/google-keep"
+        URL: "https://matheustdjamdjian.github.io/google-keep/"
       image:
         x: "images/works/gk.png"
         _2x: "images/works/gk.png"
@@ -98,7 +98,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Veja o projeto"
-        URL: "https://github.com/MatheusTDjamdjian/flappy-bird"
+        URL: "https://matheustdjamdjian.github.io/flappy-bird/"
       image:
         x: "images/works/fb.png"
         _2x: "images/works/fb.png"
