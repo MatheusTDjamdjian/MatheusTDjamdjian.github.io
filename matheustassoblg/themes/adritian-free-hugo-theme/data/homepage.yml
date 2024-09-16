@@ -82,7 +82,7 @@ client_and_work:
   enable: true
 
   works:
-    - title: "Google Kepp"
+    - title: "Google Keep"
       description: "Um projeto desenvolvido utilizando HTML, CSS e JavaScript com o objetivo de recriar, de maneira simplificada, o site do Google."
       button:
         icon: "icon-arrow-right"
