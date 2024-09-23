@@ -71,7 +71,7 @@ experience:
   enable: true
   title: "Experiência"
   description: >
-    Um ano de experiência em HTML, CSS e JavaScript, começando a mexer com bibliotecas e documentações.
+    Um ano de experiência em HTML, CSS e JavaScript, começando a mexer com React, bibliotecas e documentações.
   button:
     btnText: "GitHub"
     URL: "https://github.com/MatheusTDjamdjian"
