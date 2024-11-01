@@ -114,6 +114,17 @@ client_and_work:
         x: "images/works/lp.png"
         _2x: "images/works/lp.png"
       is_even: true
+    
+    - title: "Cost Planner"
+      description: "Desenvolvimento de uma aplicação de gerenciamento de objetivos e projetos em React, sendo simples e eficiente."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "veja o projeto"
+        URL: "https://matheustdjamdjian.github.io/cost-planner/"
+      image:
+        x: "images/works/cp.png"
+        _2x: "images/works/cp.png"
+      is_even: false
 
 # testimonial
 testimonial:
