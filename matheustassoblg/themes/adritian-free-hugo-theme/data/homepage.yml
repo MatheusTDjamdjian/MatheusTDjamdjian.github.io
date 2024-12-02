@@ -126,6 +126,17 @@ client_and_work:
         _2x: "images/works/cp.png"
       is_even: false
 
+    - title: "Memory Game"
+      description: "Um projeto desenvolvido utilizando React, em conjunto com JavaScript, com o objetivo de criar um jogo de memória simples."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Veja o projeto"
+        URL: "https://matheustdjamdjian.github.io/memory-game/"
+      image:
+        x: "images/works/mg.png"
+        _2x: "images/works/mg.png"
+      is_even: true
+
 # testimonial
 testimonial:
   enable: false
