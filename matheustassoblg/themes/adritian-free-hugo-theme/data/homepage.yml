@@ -6,7 +6,7 @@ showcase:
   enable: true
   subtitle: "Olá, me chamo Matheus."
   description: >
-    Atualmente, frequento um escritório localizado no bairro de Vila Maria, na Zona Norte de São Paulo. No meu dia a dia, me dedico a pequenos projetos de desenvolvimento, utilizando HTML, CSS, JavaScript e algumas bibliotecas relacionadas. Além disso, também realizo tarefas voltadas para a contabilidade, que é o foco principal da empresa. Me sinto motivado com o que aprendo e faço aqui, e meu objetivo é continuar expandindo e evoluindo meus conhecimentos na área de tecnologia.
+    Atualmente, frequento um escritório localizado no bairro de Vila Maria, na Zona Norte de São Paulo. No meu dia a dia, me dedico a projetos de desenvolvimento, utilizando HTML, CSS, JavaScript, React, Next.js e algumas bibliotecas relacionadas. Além disso, também realizo tarefas voltadas para a contabilidade, que é o foco principal da empresa. Me sinto motivado com o que aprendo e faço aqui, e meu objetivo é continuar expandindo e evoluindo meus conhecimentos na área de tecnologia.
   image:
     x: "images/showcase/pc.png"
     _2x: "images/showcase/pc.png"
@@ -40,7 +40,7 @@ about:
   title: "Quem sou eu?"
   content: >
     <p class="lead">
-      Meu nome é Matheus Tasso, tenho 17 anos e estou cursando o ensino médio. Sou apaixonado por jogos e esportes, sendo também uma pessoa extremamente comunicativa. Gosto de trabalhar em equipe para resolver problemas e sempre tive uma forte tendência para a tecnologia, seja na programação ou em dispositivos e soluções tecnológicas do dia a dia.   
+      Meu nome é Matheus Tasso, tenho 17 anos e estou no último ano do ensino médio. Sou apaixonado por jogos e esportes, sendo também uma pessoa extremamente comunicativa. Gosto de trabalhar em equipe para resolver problemas, onde sempre tive uma forte tendência para a tecnologia, seja na programação ou em dispositivos e soluções tecnológicas do dia a dia.   
       </p>
       <p class="lead">
       Desde cedo, desenvolvi um grande interesse pela área de tecnologia, e agora, entrando na adolescência, tenho focado no aprendizado e desenvolvimento profissional por meio de projetos pessoais e oportunidades na empresa onde estou. Minha meta é construir uma carreira sólida na área de tecnologia, vivendo dessa paixão como um desenvolvedor competente e comprometido.
@@ -71,7 +71,7 @@ experience:
   enable: true
   title: "Experiência"
   description: >
-    Um ano de experiência em HTML, CSS e JavaScript, começando a mexer com React, bibliotecas e documentações.
+    Dois anos de experiência em HTML, CSS, JavaScript, React, Next.js, bibliotecas e documentações.
   button:
     btnText: "GitHub"
     URL: "https://github.com/MatheusTDjamdjian"
@@ -82,19 +82,42 @@ client_and_work:
   enable: true
 
   works:
-    - title: "Google Keep"
-      description: "Um projeto desenvolvido utilizando HTML, CSS e JavaScript com o objetivo de recriar, de maneira simplificada, o site do Google."
+
+    - title: "Wisedev"
+      description: "A landing page for a client, designed to showcase the company's main project. Created using HTML, CSS, and Javascript, with AI assistance for basic structuring."
       button:
         icon: "icon-arrow-right"
         btnText: "Veja o projeto"
-        URL: "https://matheustdjamdjian.github.io/google-keep/"
+        URL: "https://wisedev.com.br/"
       image:
-        x: "images/works/gk.png"
-        _2x: "images/works/gk.png"
+        x: "images/works/wisedev.png"
+        _2x: "images/works/wisedev.png"
+      is_even: true
+
+    - title: "Won Games"
+      description: "Project made in HTML, CSS JavaScript, TypeScript, React, NextJS and several libraries with an API."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Veja o projeto"
+        URL: "https://github.com/MatheusTDjamdjian/won-games"
+      image:
+        x: "images/works/wg.png"
+        _2x: "images/works/wg.png"
+      is_even: false
+
+    - title: "Login Page"
+      description: "A project developed using HTML and CSS, aiming to create an interactive and responsive login page."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Veja o projeto"
+        URL: "https://matheustdjamdjian.github.io/login-layout/"
+      image:
+        x: "images/works/login.png"
+        _2x: "images/works/login.png"
       is_even: true
 
     - title: "Flappy Bird"
-      description: "Um projeto desenvolvido com HTML, CSS e JavaScript, com o objetivo de recriar o jogo Flappy Bird, incorporando um menu e outras funcionalidades adicionais."
+      description: "A project developed using HTML, CSS, and JavaScript, with the goal of recreating the Flappy Bird game, incorporating a menu and other additional functionalities."
       button:
         icon: "icon-arrow-right"
         btnText: "Veja o projeto"
@@ -104,30 +127,30 @@ client_and_work:
         _2x: "images/works/fb.png"
       is_even: false
 
-    - title: "Login Page"
-      description: "Um projeto desenvolvido com HTML e CSS, visando criar uma página de login interativa e responsiva."
+    - title: "Cost Planner"
+      description: "Developing a simple and efficient goal and project management application in React."
       button:
         icon: "icon-arrow-right"
         btnText: "Veja o projeto"
-        URL: "https://matheustdjamdjian.github.io/login-layout/"
-      image:
-        x: "images/works/lp.png"
-        _2x: "images/works/lp.png"
-      is_even: true
-    
-    - title: "Cost Planner"
-      description: "Desenvolvimento de uma aplicação de gerenciamento de objetivos e projetos em React, sendo simples e eficiente."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "veja o projeto"
         URL: "https://matheustdjamdjian.github.io/cost-planner/"
       image:
         x: "images/works/cp.png"
         _2x: "images/works/cp.png"
+      is_even: true
+
+    - title: "Google Keep"
+      description: "A project developed using HTML, CSS, and JavaScript with the goal of recreating the Google website in a simplified way."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Veja o projeto"
+        URL: "https://matheustdjamdjian.github.io/google-keep/"
+      image:
+        x: "images/works/gk.png"
+        _2x: "images/works/gk.png"
       is_even: false
 
     - title: "Memory Game"
-      description: "Um projeto desenvolvido utilizando React, em conjunto com JavaScript, com o objetivo de criar um jogo de memória simples."
+      description: "A project developed using React, in conjunction with JavaScript, with the goal of creating a simple memory game."
       button:
         icon: "icon-arrow-right"
         btnText: "Veja o projeto"

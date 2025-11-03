@@ -11,17 +11,17 @@
 .header 
 .navbar-light 
 .navbar-nav .nav-link { /* style menu */
-    color: #68C5B9;
+    color: #B3C9C6;
 }
 
 /* header */
 
 .container-fluid {
-    background-color: #93867F;
+    background-color: #2E2F36;
 }
 
 .header--sticky-triggered {
-    background-color: #93867F; 
+    background-color: #2E2F36; 
 }
 
 .display-1 { /* title showcase */
@@ -30,13 +30,14 @@
     font-family: "DM Serif Text", serif;
     font-size: 36px;
     line-height: normal;
-    color: #31AD8A;
+    color: #2FA39C;;
     
 }
 
 .rad-showcase 
 .container h1 span { /* title showcase */
     font-weight: 800; 
+    color: #2FA39C;
 }
 
 @media (min-width: 992px) { 
@@ -53,7 +54,7 @@
 
 /* You can customize theme styles here */
 .header .navbar-brand span:first-child{
-    color: #75c2b9;
+    color: #2FA39C;
 }
 .header .container{
     padding-left: 10px;
@@ -94,6 +95,7 @@ html body ::selection{
 .header .navbar-brand span:nth-child(2){
     font-family: inherit;
     margin-top: 0;
+    color: #F4F4F4;
 }
 
 #breadcrumb-bar{
